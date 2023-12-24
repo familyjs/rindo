@@ -139,6 +139,6 @@
   "prettier": "@familyjs/prettier-config",
   "volta": {
     "node": "20.4.0",
-    "npm": "9.8.1"
+    "npm": "9.9.2"
   }
 }
