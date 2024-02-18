@@ -1,6 +1,6 @@
 {
   "name": "@rindo/core",
-  "version": "4.1.0",
+  "version": "4.2.0-0",
   "license": "MIT",
   "main": "./internal/rindo-core/index.cjs",
   "module": "./internal/rindo-core/index.js",
